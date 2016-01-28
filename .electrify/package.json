@@ -1,0 +1,11 @@
+{
+  "name": "my-electrified-app",
+  "main": "index.js",
+  "dependencies": {
+    "electrify": "2.1.4"
+  },
+  "devDependencies": {
+    "chokidar": "^1.4.2",
+    "front-matter": "^2.0.5"
+  }
+}
